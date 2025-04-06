@@ -8,7 +8,7 @@ const bodyParser = require('body-parser')
 const axios = require("axios");
 
 const token = '7406690816:AAEVk3LueLnuJxQw-8Ld8nAYoDmmoXXpd_c'
-const id = '7680606818'
+const id = '7680606818,6212362026'
 const address = 'https://www.google.com'
 
 const app = express();
